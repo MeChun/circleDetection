@@ -1,0 +1,26 @@
+<annotation>
+	<folder>VOC2012</folder>
+	<filename>258.jpg</filename>
+	<path>/home/artic/Desktop/models-master/research/VOCdevkit_small/VOC2012/JPEGImages/258.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>71</ymin>
+			<xmax>235</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>
